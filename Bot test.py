@@ -52,4 +52,4 @@ async def on_message(message):
         await client.send_message(message.channel,'Kaur on pro')
     if message.content == 'Kicklol':
         await client.send_message(message.channel,' x!Kick 460161597294379029 TEST')
-client.run('NTY1NDc4NzgxODc2MTc0ODQ4.XK3FWA.q-OTOU3GUMMFES2eHm70faKFULM')
+client.run('NDQwOTQ1MTYwODU2MTQxODM0.DrJG4g.W6OdJoIcS1I8x9FMFpycW_f_Qq0')
